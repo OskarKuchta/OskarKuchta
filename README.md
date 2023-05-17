@@ -1,3 +1,4 @@
+<div style="background-color: black">
 <h1 align="center">Hi, I'm Oskar :wave:</h1>
 <h3 align="center">Learn frontend in free time :muscle: :books:</h3>
 
@@ -19,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarkuchta&show_icons=true&locale=en&layout=compact" alt="oskarkuchta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oskarkuchta&show_icons=true&locale=en" alt="oskarkuchta" /></p>
+</div>
