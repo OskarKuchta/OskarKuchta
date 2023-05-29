@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <h3>Stats: :bar_chart:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarkuchta&show_icons=true&theme=dark&title_color=f047bb&text_color=5df3fd&locale=en&layout=compact" alt="oskarkuchta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oskarkuchta&show_icons=true&theme=dark&title_color=f047bb&text_color=5df3fd&locale=en" alt="oskarkuchta" /></p>
+<p><img align="left" src="https://github-readme-stats-rho-beige.vercel.app/api/top-langs?username=oskarkuchta&show_icons=true&theme=dark&title_color=f047bb&text_color=5df3fd&locale=en&layout=compact" alt="oskarkuchta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-rho-beige.vercel.app/api?username=oskarkuchta&show_icons=true&theme=dark&title_color=f047bb&text_color=5df3fd&locale=en" alt="oskarkuchta" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oskarkuchta&theme=dark" alt="oskarkuchta" /></p>
 <h3 align="left">Another contact with me: :email:</h3>
 <p align="left">
@@ -26,3 +26,4 @@
 <a href="https://linkedin.com/in/linkedin.com/in/oskar-kuchta-288524262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oskar-kuchta-288524262/" height="30" width="40" /></a>
 </p>
 </div>
+
