@@ -2,16 +2,21 @@
 <h1 align="center">Hi, I'm Oskar :wave:</h1>
 <h2 align="center">Learn frontend in free time to get first job :clock10: :books:</h2>
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://oska98.ct8.pl/](https://oska98.ct8.pl/)
+👨‍💻 All of my projects are available on:
+<br />
 
-- 📫 How to reach me **oskarkuchta5@gmail.com**
+- [https://oska98.ct8.pl/](https://oska98.ct8.pl/)
+- [https://dobry-klan.netlify.app/](https://dobry-klan.netlify.app/)
+
+📫 How to reach me **oskarkuchta5@gmail.com**
 
 <h3 align="left">Languages and Tools: 🧰</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+<img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <br />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,4 +31,3 @@
 <a href="https://linkedin.com/in/oskar-kuchta-288524262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oskar-kuchta-288524262/" height="30" width="40" /></a>
 </p>
 </div>
-
