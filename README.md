@@ -9,6 +9,8 @@
 
 - [https://oska98.ct8.pl/](https://oska98.ct8.pl/)
 - [https://dobry-klan.netlify.app/](https://dobry-klan.netlify.app/)
+- [https://phoneparadise.netlify.app/](https://phoneparadise.netlify.app/)
+- [https://custombicycles.netlify.app/](https://custombicycles.netlify.app/)
 
 📫 How to reach me **oskarkuchta5@gmail.com**
 
@@ -21,6 +23,8 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%764ABC" />
+ <img src="https://img.shields.io/badge/React%20Router-%2320232a.svg?style=for-the-badge&logo=react-router&logoColor=%CA4245" />
 <h3>Stats: :bar_chart:</h3>
 <p><img align="left" src="https://github-readme-stats-rho-beige.vercel.app/api/top-langs?username=oskarkuchta&show_icons=true&theme=dark&title_color=f047bb&text_color=5df3fd&locale=en&layout=compact" alt="oskarkuchta" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-rho-beige.vercel.app/api?username=oskarkuchta&show_icons=true&theme=dark&title_color=f047bb&text_color=5df3fd&locale=en" alt="oskarkuchta" /></p>
