@@ -7,7 +7,7 @@
 👨‍💻 All of my projects are available on:
 <br />
 
-- [https://oska98.ct8.pl/](https://oska98.ct8.pl/)
+- [https://oskaprojects.ct8.pl/](https://oskaprojects.ct8.pl/)
 - [https://dobry-klan.netlify.app/](https://dobry-klan.netlify.app/)
 - [https://phoneparadise.netlify.app/](https://phoneparadise.netlify.app/)
 - [https://custombicycles.netlify.app/](https://custombicycles.netlify.app/)
